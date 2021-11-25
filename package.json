@@ -1,0 +1,12 @@
+{
+  "name": "ttt",
+  "description": "teravolt-test-task",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.7.0",
+    "@lightningjs/ui": "^1.1.4"
+  },
+  "scripts": {
+    "serve": "lng dev",
+    "build": "lng build"
+  }
+}
