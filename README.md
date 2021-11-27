@@ -1,5 +1,3 @@
-# teravolt-test-task
-
 ## ttt
 
 ### Getting started
